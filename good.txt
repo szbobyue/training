@@ -1,0 +1,1 @@
+当你第一次使用Git的clone或者push命令连接GitHub时，会得到一个警告：
